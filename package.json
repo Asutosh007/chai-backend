@@ -1,0 +1,16 @@
+{
+  "name": "chai-aur-backend",
+  "version": "1.0.0",
+  "description": "a backend pract from chai aur code chann",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "backend"
+  ],
+  "author": "Asutosh Sahu",
+  "license": "ISC"
+}
